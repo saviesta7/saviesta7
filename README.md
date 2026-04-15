@@ -18,7 +18,7 @@
 
 ### 📊 GitHub Stats
 <div align="center">
-  ![Top Langs](https://github-readme-stats-one-niner.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=dark)
+  ![Top Langs](https://github-readme-stats-one-niner.vercel.app/api/top-langs/?username=saviesta7&layout=compact&theme=dark)
 </div>
 
 <br />
