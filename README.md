@@ -1,7 +1,7 @@
 <div align="center">
   <h1>Hi there, I'm <a href="https://www.youtube.com/live/yZbR5nKYiDc?si=qMbK314WmidISMsM"> love playing games and badminton</a> </h1>
   <p align="center">
-    <strong>Full-Stack Developer</strong>
+    <strong>Newbie fullstack developer</strong>
   </p>
  
 </div>
@@ -18,7 +18,6 @@
 
 ### 📊 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=saviesta7&show_icons=true&theme=radical" alt="GitHub Stats" />
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saciesta777&layout=compact&theme=vision-friendly-dark)
 </div>
 
