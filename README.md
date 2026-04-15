@@ -14,16 +14,6 @@
 - 📫 How to reach me: **wongsathon.phoo@gmail.com**
 
 <br />
-<br />
-
-### 📊 GitHub Stats
-<div align="center">
-  ![Your Stats](https://github-readme-stats.vercel.app/api?username=saviesta7&show_icons=true&theme=radical)
-
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saviesta7&layout=compact&theme=radical)
-</div>
-
-<br />
 
 ---
 
